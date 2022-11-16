@@ -1,3 +1,4 @@
+```bash
 # Clone this repository
 $ git clone https://github.com/JsArafath/react-rest-countries-main.git
 
@@ -9,3 +10,5 @@ $ npm install
 
 #Start's development server
 $ npm start
+
+```
